@@ -1,8 +1,8 @@
 # text-preprocessing-techniques
 ## 16 Text Preprocessing Techniques in Python for Twitter Sentiment Analysis.
 
-These techniques were used in comparison in our paper **"A Comparison of Pre-processing Techniques for Twitter Sentiment Analysis"**. If you use this material please [cite](https://link.springer.com/chapter/10.1007/978-3-319-67008-9_31) the paper. We are currently writing an extended paper for this work that will be commited in a journal. So stay updated.
-
+These techniques were used in comparison in our paper **"A Comparison of Pre-processing Techniques for Twitter Sentiment Analysis"**. If you use this material please [cite](https://link.springer.com/chapter/10.1007/978-3-319-67008-9_31) the paper. An extended paper for this work can be found [here](https://www.sciencedirect.com/science/article/pii/S0957417418303683), with the title **"A comparative evaluation of pre-processing techniques and their interactions for twitter sentiment analysis"**. Please cite.
+ 
 Most of these techniques are generic and can be used in various applications except Sentiment Analysis. 
 They are the following:
 
