@@ -37,7 +37,7 @@ def tokenize(text, wordCountBefore, textID, y):
 ##    for w in tokens:
 ##
 ##        if (w not in stoplist): # Technique 10: remove stopwords
-##            final_word = addCapTag(w) # Technique 8: finds "not,never,no" and adds the tag ALL_CAPS_ to all words that follow until the next punctuation
+##            final_word = addCapTag(w) # Technique 8: Finds a word with at least 3 characters capitalized and adds the tag ALL_CAPS_
 ##            final_word = final_word.lower() # Technique 9: lowercases all characters
 ##            final_word = replaceElongated(final_word) # Technique 11: replaces an elongated word with its basic form, unless the word exists in the lexicon
 ##            if len(final_word)>1:
