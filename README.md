@@ -19,7 +19,7 @@ They are the following:
 #### 10. Remove Stopwords
 #### 11. Replace Elongated Words
 #### 12. Spelling Correction
-#### 13. Part of Speeck Tagging
+#### 13. Part of Speech Tagging
 #### 14. Lemmatizing
 #### 15. Stemming
 
