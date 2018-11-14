@@ -203,7 +203,7 @@ def addNotTag(text):
 	return transformed
 
 def addCapTag(word):
-    """ Finds "not,never,no" and adds the tag ALL_CAPS_ to all words that follow until the next punctuation """
+    """ Finds a word with at least 3 characters capitalized and adds the tag ALL_CAPS_ """
     if(len(re.findall("[A-Z]{3,}", word))):
         word = word.replace('\\', '' )
         transformed = re.sub("[A-Z]{3,}", "ALL_CAPS_"+word, word)
