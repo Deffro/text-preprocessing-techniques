@@ -25,7 +25,19 @@ They are the following:
 
 This scripts also prints some statistics for the text file like: 
 
-**Total Sentences, Total Words before and after preprocess, Total Unique words before and after preprocess, Average Words per Sentence before and after preprocess, Total Run time, Total Emoticons found, Total Slangs and Abbreviations found, 20 Most Commong Sland and Abbreviations and plots them, Total Elongated words, Total multi Exclamation, question and stop marks, Total All Capitalized words, 100 Most Common words and plots them and most common bigram and trigram collocations.**
+- Total Sentences
+- Total Words before and after preprocess
+- Total Unique words before and after preprocess
+- Average Words per Sentence before and after preprocess
+- Total Run time
+- Total Emoticons found
+- Total Slangs and Abbreviations found
+- 20 Most Commong Sland and Abbreviations and plots them
+- Total Elongated words
+- Total multi Exclamation
+- question and stop marks
+- Total All Capitalized words
+- 100 Most Common words and plots them and most common bigram and trigram collocations
 
 The text file that we included here is a sample (2000 tweets) of the SS-Twitter dataset.
 
