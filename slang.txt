@@ -1,4 +1,4 @@
-2day	today
+ï»¿2day	today
 2nite	tonight
 4u	for you
 4ward	forward
@@ -59,11 +59,11 @@ coz beacause
 cu	see you
 cuddy	friends
 cul	see you later
-cul8r	see you later 
+cul8r	see you laterÂ 
 cutie	cute
 cuz	because
 cya	bye
-cyo	see you online 
+cyo	see you onlineÂ 
 dbau	doing business as usual
 deets	details
 dmn	damn
@@ -87,14 +87,14 @@ friggin	freaking
 fttn	for the time being
 ftw	for the win
 fud	fear, uncertainty, and doubt
-fwiw	for what it's worth 
+fwiw	for what it's worthÂ 
 fyi	for your information
-g	grin 
-g2g	got to go 
-ga	go ahead 
+g	grinÂ 
+g2g	got to goÂ 
+ga	go aheadÂ 
 gal	get a life
-getcha	understand 
-gf	girlfriend 
+getcha	understandÂ 
+gf	girlfriendÂ 
 gfn	gone for now
 gg	good game
 gj	good job
@@ -102,43 +102,43 @@ gky	go kill yourself
 gl	good luck
 glhf	good luck have fun
 gmab	give me a break
-gmbo	giggling my butt off 
-gmta	great minds think alike 
+gmbo	giggling my butt offÂ 
+gmta	great minds think alikeÂ 
 goof	idiot
 goofy	idiot
 gr8	great
 gtg	got to go
 gud	good
 h8	hate
-hagn	have a good night 
-hdop	help delete online predators 
+hagn	have a good nightÂ 
+hdop	help delete online predatorsÂ 
 hf	have fun
 hml	hate my life
 hoas	hold on a second
-hhis	hanging head in shame 
+hhis	hanging head in shameÂ 
 hmu	hit me up
 hru	how are you
 twt	hope this helps
 hw	homework
 i'ma	i am going to
-iac	in any case 
-ic	I see 
+iac	in any caseÂ 
+ic	I seeÂ 
 icymi	in case you missed it
 idk	I don't know
-iggy	ignore 
+iggy	ignoreÂ 
 iht	i hate this
 ikr	i know, right?
 ilt	i like that
 ily	i love you
-ima	i am going to 
+ima	i am going toÂ 
 imao	in my arrogant opinion
-imnsho	in my not so humble opinion 
-imo	in my opinion 
+imnsho	in my not so humble opinionÂ 
+imo	in my opinionÂ 
 imy	i miss you
 iou	i owe you
-iow	in other words 
-ipn	I’m posting naked 
-irl	in real life 
+iow	in other wordsÂ 
+ipn	Iâ€™m posting nakedÂ 
+irl	in real lifeÂ 
 j/k	just kidding
 jdi	just do it
 jk	just kidding
@@ -149,25 +149,25 @@ l8	late
 l8r	later
 lbh	let's be honest
 ld	later, dude
-ldi	let's do it  
-ldr	long distance relationship 
-lees	beautiful 
+ldi	let's do itÂ Â 
+ldr	longÂ distanceÂ relationshipÂ 
+lees	beautifulÂ 
 lfm	looking for more
 lil	little
-llta	lots and lots of thunderous applause 
+llta	lots and lots of thunderous applauseÂ 
 lmao	laugh my ass off
-lmirl	let's meet in real life 
+lmirl	let's meet in real lifeÂ 
 lmk	let me know
 lol	laugh out loud
 lolz	laugh out loud
 lotta	lot of
 lsr	loser
 ltr	longterm relationship
-lua	love you always 
+lua	love you alwaysÂ 
 lub	love
 lubb	love
-lulab	love you like a brother 
-lulas	love you like a sister 
+lulab	love you like a brotherÂ 
+lulas	love you like a sisterÂ 
 lul	laugh
 luls	laugh
 lulz	laugh
@@ -201,11 +201,11 @@ nuh	no
 nvm	nevermind
 obo	or best offer
 oic	oh, i see
-oll	online love 
+oll	onlineÂ loveÂ 
 omg	oh my god
 omw	on my way
 osm	awesome
-otoh	on the other hand 
+otoh	on the other handÂ 
 perv	pervert
 pervy	pervert
 phat	pretty hot and tempting
@@ -231,7 +231,7 @@ sff	so funny
 smexy	smart and sexy
 smh	shaking my head
 somy	sick of me yet
-sot	short of time 
+sot	short of timeÂ 
 sry	sorry
 str8	straight
 sux	sucks
@@ -248,14 +248,14 @@ thanx	thanks
 thx	thanks
 tfw	that feeling  when
 til	today i learned
-ttyl	talk to you later 
+ttyl	talk to you laterÂ 
 ty	thank you
 tyvm	thank you very much
 u	you
 uber	the best
 ugh	disgusted
 ur	you are
-uw	you are welcome 
+uw	you are welcomeÂ 
 vs	versus
 w2f	way too funny
 w8	wait
@@ -265,8 +265,8 @@ wb	welcome back
 whiz	talented
 whoa	surprise
 whoah	surprise
-wfm	works for me 
-wibni	wouldn't it be nice if 
+wfm	works for meÂ 
+wibni	wouldn't it be nice ifÂ 
 wmd	weapon of mass destruction
 wot	what
 wtf	what the fuck
